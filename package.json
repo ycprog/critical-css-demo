@@ -1,0 +1,14 @@
+{
+  "name": "critical-css-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ycprog/critical-css-demo.git",
+  "author": "ycprog",
+  "license": "MIT",
+  "scripts": {
+    "build": "node critical.js"
+  },
+  "devDependencies": {
+    "critical": "^4.0.1"
+  }
+}
